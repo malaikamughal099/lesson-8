@@ -2,13 +2,13 @@
 <html>
 <body>
 <h1> Welcome to MY Rocket Mission</h1>
-<img src ="rocket.png" hight="300px" >
+<img src ="C:\Users\ESHOP\OneDrive\Desktop\web dev course\lesson 8\rocket.png" hight="300px" >
 
 <br><br>
-<audio src="mp3" hight="300px"></audio>
+<audio src="C:\Users\ESHOP\OneDrive\Desktop\web dev course\lesson 8\Music\music.mp3" hight="300px" control loop></audio>
 
 <br><br>
-<video src="mp4" hight="300px"></video>
+<video src="C:\Users\ESHOP\OneDrive\Desktop\web dev course\lesson 8\Video\aqua.mp4" hight="300px" control loop></video>
 
 
 
